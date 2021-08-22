@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=094y1Z2wpJg
 
 int main(void)
 {
-    uint64_t x=0, flag=4;
+    uint32_t x=0, flag=4;
 
     printf("Enter the number\n");
     scanf("%d", &x);
