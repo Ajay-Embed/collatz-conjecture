@@ -31,7 +31,7 @@ int main(void)
         {
             printf("computing /2 on even x = %d\n", x);
             x /= 2;
-        }else if((x%2U) != 0U)
+        }else
         {
             if (x == 1U)
             {
