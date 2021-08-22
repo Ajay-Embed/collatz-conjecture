@@ -15,3 +15,7 @@ For a very detailed introduction to the conjecture please take a look at this vi
 https://www.youtube.com/watch?v=094y1Z2wpJg
 
 ### - "Mathematics is just not right enough, for such questions"
+
+![image](https://user-images.githubusercontent.com/39146318/130345092-18279493-2743-45f1-97ff-8529a2694908.png)
+
+
